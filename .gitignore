@@ -1,5 +1,10 @@
 
+.vs/
 ArchiveTest/.vs/
 ArchiveTest/ArchiveTest/obj/
 ArchiveTest/ArchiveTestCS/obj/
 ArchiveTest/ArchiveTestCSConsole/obj/
+ListViewMulti/.vs/
+ListViewMulti/ListViewMulti/obj/
+ListViewMulti/ListViewMultiCS/obj/
+ListViewMulti/ListViewMultiCSConsole/obj/
